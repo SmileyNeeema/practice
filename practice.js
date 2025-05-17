@@ -99,3 +99,5 @@
 //index of the element - indexOf()
 // const names = ["sam", "joy", "seth"]
 // console.log(names.indexOf("joy"))
+
+//leo
