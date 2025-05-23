@@ -101,3 +101,27 @@
 // console.log(names.indexOf("joy"))
 
 //leo
+const fruits=["Apple","Banana","avocado","watermelon"]
+console.log(fruits)
+const fruitscapital=fruits.map(fruits=>fruits.uppercase())
+console.log(fruitscapital)
+const fruits=["Apple","Banana","avocado","watermelon"]
+console.log(fruits[3])
+fruits.push("kiwi")
+console.log(fruits)
+fruits.pop=("banana")
+console.log(fruits)
+fruits.shift=("Apple","Banana","avocado","watermelon")
+console.log(fruits)
+fruitsunshift=("pears")
+console.log=(fruits)
+// array changing values manupilating data
+const fruits=["Apple","Banana","avocado","watermelon"]
+fruits[3]="Guava"
+console.log(fruits)
+//index of the element
+ const fruits=["Apple","Banana","avocado","watermelon"]
+ console.log(fruits.indexof("avocado"))
+ 
+
+
